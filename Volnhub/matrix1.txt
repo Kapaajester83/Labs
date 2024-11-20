@@ -1,0 +1,80 @@
+
+
+    Virtual Machines
+    Help
+    Resources
+    About
+
+    Submit Machine
+    Contact Us
+
+Back
+
+    About Release
+     | Download
+     | Description
+     | File information
+     | Virtual Machine
+     | Networking
+     | Screenshot(s)
+
+Matrix: 1
+
+About Release
+Back to the Top
+
+    Name: Matrix: 1
+    Date release: 19 Aug 2018
+    Author: Ajay Verma
+    Series: Matrix
+
+Download
+Back to the Top
+Please remember that VulnHub is a free community resource so we are unable to check the machines that are provided to us. Before you download, please read our FAQs sections dealing with the dangers of running unknown VMs and our suggestions for “protecting yourself and your network. If you understand the risks, please download!
+
+    Machine_Matrix.zip (Size: 552 MB)
+    Download: https://mega.nz/#!CiwBjRZB!EtKOQvDQjytMq3LkkMgrHDC9EYxEz8mqpOg5M2N1OOk
+    Download (Mirror): https://download.vulnhub.com/matrix/Machine_Matrix.zip
+
+Description
+Back to the Top
+
+Description: Matrix is a medium level boot2root challenge. The OVA has been tested on both VMware and Virtual Box.
+
+Difficulty: Intermediate
+
+Flags: Your Goal is to get root and read /root/flag.txt
+
+Networking: DHCP: Enabled IP Address: Automatically assigned
+
+Hint: Follow your intuitions ... and enumerate!
+
+For any questions, feel free to contact me on Twitter: @unknowndevice64
+File Information
+Back to the Top
+
+    Filename: Machine_Matrix.zip
+    File size: 552 MB
+    MD5: 9ECF22AD48AFE814A1F68B808DF706A9
+    SHA1: 1A9EBF12AD012FE79E620A34047914F71DF5E711
+
+Virtual Machine
+Back to the Top
+
+    Format: Virtual Machine (Virtualbox - OVA)
+    Operating System: Linux
+
+Networking
+Back to the Top
+
+    DHCP service: Enabled
+    IP address: Automatically assign
+
+Screenshots
+Back to the Top
+Matrix 1 screenshot
+Matrix 1 screenshot
+Matrix 1 screenshot
+This website uses 'cookies' to give you the best, most relevant experience. Using this website means you're happy with this. You can find out more about the cookies used by clicking this link (or by clicking the 'Privacy Policy' link at the top of any page).
+© VulnHub 2012-2024
+
