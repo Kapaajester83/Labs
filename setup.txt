@@ -6,3 +6,7 @@ git branch -M main
 git remote add origin https://github.com/Kapaajester83/Labs.git
 git push -u origin main
 
+user: kappa
+pass: "user key"
+
+
