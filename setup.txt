@@ -1,5 +1,8 @@
 # Log
 
+  *Init
+=====
+
 Tab spaces 2 in settings
 
   *Github/Bitbucket Reposisitory
@@ -15,7 +18,8 @@ git push -u origin main
 user: kappa
 pass: "user key" provided by Github/Bitbucket
 
-   *ovpn
+  *ovpn
+=====
 
 GUI
 "+" import from file
