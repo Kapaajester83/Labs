@@ -1,0 +1,140 @@
+
+
+    Virtual Machines
+    Help
+    Resources
+    About
+
+    Submit Machine
+    Contact Us
+
+Back
+
+    About Release
+     | Download
+     | Description
+     | File information
+     | Virtual Machine
+     | Networking
+     | Screenshot(s)
+     | Walkthrough(s) 
+
+Mr-Robot: 1
+
+About Release
+Back to the Top
+
+    Name: Mr-Robot: 1
+    Date release: 28 Jun 2016
+    Author: Leon Johnson
+    Series: Mr-Robot
+
+Download
+Back to the Top
+Please remember that VulnHub is a free community resource so we are unable to check the machines that are provided to us. Before you download, please read our FAQs sections dealing with the dangers of running unknown VMs and our suggestions for “protecting yourself and your network. If you understand the risks, please download!
+
+    mrRobot.ova (Size: 704MB)
+    Download (Mirror): https://download.vulnhub.com/mrrobot/mrRobot.ova
+
+Description
+Back to the Top
+
+Based on the show, Mr. Robot.
+
+This VM has three keys hidden in different locations. Your goal is to find all three. Each key is progressively difficult to find.
+
+The VM isn't too difficult. There isn't any advanced exploitation or reverse engineering. The level is considered beginner-intermediate.
+File Information
+Back to the Top
+
+    Filename: mrRobot.ova
+    File size: 704MB
+    MD5: BC02C42815EAC4E872D753E1FD12DDC8
+    SHA1: DC0EB84DA4C62284C688590EE092868CE84A09AB
+
+Virtual Machine
+Back to the Top
+
+    Format: Virtual Machine (Virtualbox - OVA)
+    Operating System: Linux
+
+Networking
+Back to the Top
+
+    DHCP service: Enabled
+    IP address: Automatically assign
+
+Screenshots
+Back to the Top
+Mr-Robot 1 screenshot
+Mr-Robot 1 screenshot
+Walkthrough
+Back to the Top
+
+    4 Apr 2017 - [Write-up] Mr Robot (christophetd)
+    30 Mar 2017 - Vulnhub – Mr-Robot: 1 (Guillermo Cura)
+    7 Mar 2017 - Mr.Robot VulnHub Boot2Root (Spanish) (Roskyfrosky)
+    4 Mar 2017 - mrrobot&bloodcode (Bloodcode)
+    25 Feb 2017 - Vulnhub - Mr Robot: 1 boot2root CTF walkthrough (Kris)
+    19 Feb 2017 - Mr-Robot (D3falt)
+    3 Feb 2017 - Mr Robot 1 - Vulnhub (Th3Doc70r)
+    27 Jan 2017 - Mr. Robot (aisherwood)
+    23 Jan 2017 - VulnHub: Dive into hacking in the style of the show Mr. the Robot (Russian) (GH0st3rs)
+    21 Jan 2017 - Mr Robot - Writeup (John Edwards)
+    20 Jan 2017 - Mr-Robot 1 [Writeup] (Myanmar) (Thin Ba Shane)
+    20 Jan 2017 - Mr. Robot 1 Walkthrough (Vulnhub) (abatchy)
+    23 Dec 2016 - Capturando as 3 chaves do Desafio. CTF Mr Robot (Brazilian) (Conecte Aqui)
+    21 Dec 2016 - Mr-Robot: 1 Writeup (syrion)
+    10 Dec 2016 - Mr-Robot:1 CTF Walkthrough (Tejaswa Rastogi)
+    8 Dec 2016 - MR. ROBOT – WALKTHROUGH (0x0day)
+    4 Dec 2016 - CTF – Hacking Mr. Robot (KINGdotNET)
+    27 Nov 2016 - Mr Robot - Writeup (John Edwards)
+    28 Oct 2016 - Mr. Robot VulnHub CTF Walkthrough - Part 2 (Hack Happy)
+    27 Oct 2016 - Mr. Robot VulnHub CTF Walkthrough - Part 1 (Hack Happy)
+    10 Oct 2016 - Hack The Flag (CTF) Mr Robot 1 Walktrough with full destroy of the machine (Keks-IT)
+    5 Oct 2016 - Hack The Flag: Mr Robot 1 - Pentest einer kompletten Maschine mit Kali Linux (German) (Keks-IT)
+    5 Oct 2016 - Mr. Robot capture the flag (CTF) ROOT (Hack Hut)
+    30 Sep 2016 - VulnHub ‘Mr.Robot 1’ - CTF (Jack Halon)
+    23 Sep 2016 - Mr Robot Challenge – Writeup (French) (shoxx)
+    2 Sep 2016 - MrRobot VM Tutorial (ethicalhacker1337)
+    31 Aug 2016 - Mr. Robot 1 – You Are Not Alone (KaiZenSecurity)
+    31 Aug 2016 - “Mr. Robot” VulnHub VM Writeup (Dave Barrett)
+    24 Aug 2016 - 2.0 mr-robot walk through (Steven Marlowe)
+    9 Aug 2016 - Vulnhub – Mr.Robot : 1 (seclyn)
+    9 Aug 2016 - Walkthrough “Mr-Robot: 1” (mrpnkt)
+    5 Aug 2016 - Solucion reto MrRobot (PDF) (Spanish) (akil3s)
+    4 Aug 2016 - CTF Mr-Robot: 1 Challenge (Anand Tiwari)
+    4 Aug 2016 - MR. Robot 1 – CTF Walk-through (Reedphish)
+    4 Aug 2016 - We have more power than they think (Mr.Robot) (fwhibbit)
+    31 Jul 2016 - [VULNHUB] Mr. Robot (Reverse Brain)
+    20 Jul 2016 - Mr Robot - CTF (PentestingAndCTF)
+    15 Jul 2016 - Mr. Robot Write-up (Oana Stoian)
+    12 Jul 2016 - Breaking inside Mr.Robot’s VM (MadmanTM)
+    12 Jul 2016 - Mr Robot CTF Walkthrough (two06)
+    12 Jul 2016 - Mr-Robot : 1 ~ Writeup (k4m4)
+    7 Jul 2016 - VulnHub.com - Mr. Robot 1 CTF Walkthrough (Leigh Hall)
+    5 Jul 2016 - fsociety - Mr. R0b0t (ByteReaper)
+    5 Jul 2016 - Mr Robot (vulnhub) Write Up (Spanish) (pax0r)
+    5 Jul 2016 - MR-ROBOT: 1. VULNHUB’S VM WALKTHROUGH (9emin1)
+    5 Jul 2016 - Vulnhub: Mr-Robot 1 Walkthrough (cmaddy)
+    4 Jul 2016 - 7MS #210: Vulnhub Walkthrough - Mr. Robot (Brian Johnson)
+    2 Jul 2016 - Mr Robot (Viper)
+    2 Jul 2016 - Mr-Robot 1 Writeup (GKNSB)
+    2 Jul 2016 - Mr. Robot Vulnhub CTF (bryceandress)
+    2 Jul 2016 - [SOLUTION] MR-ROBOT: 1 VULNHUB (m3noetius)
+    1 Jul 2016 - MR-ROBOT 1 ~ VULNHUB WALKTHROUGH (Graham Thomas)
+    30 Jun 2016 - Mr Robot v1 challenge (rgolebiowski)
+    30 Jun 2016 - Mr-Robot 1 (wrboyce)
+    30 Jun 2016 - TAKE DOWN Mr-Robot: 1 (Spentera)
+    30 Jun 2016 - Whois Mr Robot (Xerubus)
+    29 Jun 2016 - VulnHub Cracking Challenge Mr-Robot: 1 (arkanoid)
+    28 Jun 2016 - Mr-Robot: 1 Walkthrough (PDF) (mrb3n)
+    Tuesday, 4 October 2016 Vulnhub Mr-Robot 1 (Volta Security)
+    Hack the Mr. Robot VM (CTF Challenge) (Raj Chandel)
+    Mr. Robot (Anthony Isherwood)
+    Mr.Robot (Hausec)
+    Solucion reto MrRobot (PDF) (Spanish) (1GbDeInfo)
+
+This website uses 'cookies' to give you the best, most relevant experience. Using this website means you're happy with this. You can find out more about the cookies used by clicking this link (or by clicking the 'Privacy Policy' link at the top of any page).
+© VulnHub 2012-2024
+
